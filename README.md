@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **mrb1nary/mrb1nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![mrb1nary-animated](https://user-images.githubusercontent.com/55779046/225549442-9ef10643-852c-4259-9a0d-13b85331f08c.svg)
