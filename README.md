@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 
 
-![mrb1nary-animated](https://user-images.githubusercontent.com/55779046/225549442-9ef10643-852c-4259-9a0d-13b85331f08c.svg)
+
+<img src ="https://user-images.githubusercontent.com/55779046/225549442-9ef10643-852c-4259-9a0d-13b85331f08c.svg" style="vertical-align:center" width:1920/>
+
+<h2>My Arsenal</h2>
+
+<img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react"/>
