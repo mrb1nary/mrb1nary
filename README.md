@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   👋 Hey there, welcome to my profile! </br>
-  🧑‍🎓 I'm currently a student pursuing my Master's in Computer Applications </br>
+  🧑‍🎓 Open to opportunities  </br>
   🌐 Web developer by skills </br>
   🔧 Love to engineer new things </br>
   🔗 Blockchain enthusiast </br></br></hr>
