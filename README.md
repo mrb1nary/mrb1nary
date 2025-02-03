@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="left">
   👋 Hey there, welcome to my profile! </br>
   🧑‍🎓 Open to opportunities  </br>
-  🌐 Web developer by skills </br>
+  🌐 Rust Developer </br>
   🔧 Love to engineer new things </br>
   🔗 Blockchain enthusiast </br></br></hr>
 </div>
