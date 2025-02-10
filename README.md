@@ -1,4 +1,4 @@
-### 
+###
 
 <!--
 **mrb1nary/mrb1nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 <div align="center">
 <img src ="https://user-images.githubusercontent.com/55779046/225549442-9ef10643-852c-4259-9a0d-13b85331f08c.svg" style="" width:1920/>
@@ -51,15 +49,18 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-Github Stats               |  Top Languages
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=mrb1nary&count_private=true&show_icons=true&theme=tokyonight)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrb1nary&layout=compact&theme=tokyonight)
+|                                                     Github Stats                                                      |                                                Top Languages                                                 |
+| :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api?username=mrb1nary&count_private=true&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrb1nary&layout=compact&theme=tokyonight) |
 
-
-
-  
   </div>
   
 <div>
   <img src= "https://komarev.com/ghpvc/?username=mrb1nary&color=red&label=WATCHERS" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
